@@ -19,7 +19,6 @@ Time series analysis comprises methods for analyzing time series data in order t
 ### Closing Price of Stocks
 ![closing_data](https://user-images.githubusercontent.com/30564193/115087301-e7dd5280-9edb-11eb-9959-be2d8a6fc836.png)
 
-
 ### Volume of Stocks being Traded on daily basis
 ![stocks_volume](https://user-images.githubusercontent.com/30564193/115087494-3f7bbe00-9edc-11eb-97ec-df5ce5986a38.png)
 
@@ -40,4 +39,8 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 ### Yearly mean of closing price of Apple
 ![yearly_mean](https://user-images.githubusercontent.com/30564193/115088147-8fa75000-9edd-11eb-89c0-dfc2052482fd.png)
+
+### Correlation between stock prices of different companies
+![correlation_companies](https://user-images.githubusercontent.com/30564193/115088308-e3b23480-9edd-11eb-9be7-4d0bb912e712.png)
+
 
