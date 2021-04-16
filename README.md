@@ -35,6 +35,9 @@ Time series analysis comprises methods for analyzing time series data in order t
 ### Daily Stock Price change
 ![daily_stock_change](https://user-images.githubusercontent.com/30564193/115087859-0abc3680-9edd-11eb-9be4-13c7dece9c7e.png)
 
-### Monthly mean of closing price
+### Monthly mean of closing price of Apple
 ![monthly_mean](https://user-images.githubusercontent.com/30564193/115087952-350df400-9edd-11eb-96b7-7a5caf52e5bc.png)
+
+### Yearly mean of closing price of Apple
+![yearly_mean](https://user-images.githubusercontent.com/30564193/115088147-8fa75000-9edd-11eb-89c0-dfc2052482fd.png)
 
