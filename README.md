@@ -24,11 +24,8 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 ### Volume of Stocks being Traded on daily basis using Plotly
 ![stocks_volume_plotly](https://user-images.githubusercontent.com/30564193/115087635-7eaa0f00-9edc-11eb-8849-11e03d4f02d5.png)
-
 ![amazon](https://user-images.githubusercontent.com/30564193/115087713-b0bb7100-9edc-11eb-9ef9-104a1bb9e73e.png)
-
 ![google](https://user-images.githubusercontent.com/30564193/115087719-b3b66180-9edc-11eb-98f7-038b996eb9fb.png)
-
 ![microsoft](https://user-images.githubusercontent.com/30564193/115087723-b618bb80-9edc-11eb-93b3-c25b66a01ca7.png)
 
 ### Daily Stock Price change
@@ -43,4 +40,25 @@ Time series analysis comprises methods for analyzing time series data in order t
 ### Correlation between stock prices of different companies
 ![correlation_companies](https://user-images.githubusercontent.com/30564193/115088308-e3b23480-9edd-11eb-9be7-4d0bb912e712.png)
 
+The more the diagram looks linear, the strong the correlation is!
+
+![correlation](https://user-images.githubusercontent.com/30564193/115088430-2247ef00-9ede-11eb-9d0a-11bdedf6c4bf.png)
+
+### Daily return of each stock and correlation between them
+![correlation_price_change](https://user-images.githubusercontent.com/30564193/115088532-591e0500-9ede-11eb-9403-eb24f3a55466.png)
+
+![correlation2](https://user-images.githubusercontent.com/30564193/115088609-87034980-9ede-11eb-8a29-f7bf515de6c3.png)
+
+### Risk Analysis for all the companies
+#### 1. Apple
+![risk1](https://user-images.githubusercontent.com/30564193/115088667-b023da00-9ede-11eb-85e3-d3482b074dd7.png)
+
+#### 2. Amazon
+![risk2](https://user-images.githubusercontent.com/30564193/115088738-dd708800-9ede-11eb-9e17-4b74f0c3fa3f.png)
+
+#### 3. Google
+![risk3](https://user-images.githubusercontent.com/30564193/115088797-fc6f1a00-9ede-11eb-9f9e-ed4c16913957.png)
+
+#### 4. Microsoft
+![risk4](https://user-images.githubusercontent.com/30564193/115088853-16106180-9edf-11eb-85ff-188c100b7707.png)
 
