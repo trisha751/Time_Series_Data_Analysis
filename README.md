@@ -31,3 +31,10 @@ Time series analysis comprises methods for analyzing time series data in order t
 ![google](https://user-images.githubusercontent.com/30564193/115087719-b3b66180-9edc-11eb-98f7-038b996eb9fb.png)
 
 ![microsoft](https://user-images.githubusercontent.com/30564193/115087723-b618bb80-9edc-11eb-93b3-c25b66a01ca7.png)
+
+### Daily Stock Price change
+![daily_stock_change](https://user-images.githubusercontent.com/30564193/115087859-0abc3680-9edd-11eb-9be4-13c7dece9c7e.png)
+
+### Monthly mean of closing price
+![monthly_mean](https://user-images.githubusercontent.com/30564193/115087952-350df400-9edd-11eb-96b7-7a5caf52e5bc.png)
+
