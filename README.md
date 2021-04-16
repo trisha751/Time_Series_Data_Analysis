@@ -2,6 +2,7 @@
 
 Interact with Jupyter Notebook:
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trisha751/Time_Series_Data_Analysis.git/HEAD)
 
 ## Time Series Analysis
 Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. The major components or pattern that are analyzed through time series are: Increase or decrease in the series of data over longer a period. Fluctuations in the pattern due to seasonal determinants over a short period.
