@@ -21,5 +21,13 @@ Time series analysis comprises methods for analyzing time series data in order t
 
 
 ### Volume of Stocks being Traded on daily basis
-
 ![stocks_volume](https://user-images.githubusercontent.com/30564193/115087494-3f7bbe00-9edc-11eb-97ec-df5ce5986a38.png)
+
+### Volume of Stocks being Traded on daily basis using Plotly
+![stocks_volume_plotly](https://user-images.githubusercontent.com/30564193/115087635-7eaa0f00-9edc-11eb-8849-11e03d4f02d5.png)
+
+![amazon](https://user-images.githubusercontent.com/30564193/115087713-b0bb7100-9edc-11eb-9ef9-104a1bb9e73e.png)
+
+![google](https://user-images.githubusercontent.com/30564193/115087719-b3b66180-9edc-11eb-98f7-038b996eb9fb.png)
+
+![microsoft](https://user-images.githubusercontent.com/30564193/115087723-b618bb80-9edc-11eb-93b3-c25b66a01ca7.png)
