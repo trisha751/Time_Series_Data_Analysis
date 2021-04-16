@@ -15,3 +15,6 @@ Time series analysis comprises methods for analyzing time series data in order t
 5. Correlation between stock prices of different companies
 6. Daily return of each stock and correlation between them
 7. Risk Analysis for all the companies
+
+## Closing Price of Stocks
+![closing_data](https://user-images.githubusercontent.com/30564193/115087301-e7dd5280-9edb-11eb-9959-be2d8a6fc836.png)
