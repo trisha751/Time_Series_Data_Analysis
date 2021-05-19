@@ -1,4 +1,4 @@
-# Time_Series_Data_Analysis
+# Time Series Data Analysis
 
 Interact with Jupyter Notebook:
 
